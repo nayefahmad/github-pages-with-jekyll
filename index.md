@@ -1,3 +1,3 @@
-# Welcome to my blog
+## 2019-01-08 LGH hospitalists, IMs, etc. 
 
-I'm glad you are here. I plan to talk about ...
+MRP (Most responsible provider) is used to measure census by day. 
